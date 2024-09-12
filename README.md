@@ -38,7 +38,7 @@ This project was a Frontend Mentor challenge to build a reponsive landing page. 
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Josh1407/Social-media-profile.git
 - Live Site URL: https://josh1407.github.io/Social-media-profile/
 
 ### Built with
